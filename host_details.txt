@@ -1,0 +1,16 @@
+ Static hostname: kali
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: cda60a15edc6445c9dadc4472b153fa5
+         Boot ID: a209bf11f32e4b11841ad042a6b4d97c
+    Product UUID: 9f194d56-fd6f-d84c-a63d-6a6ddf0d8044
+  Virtualization: vmware
+Operating System: Kali GNU/Linux Rolling
+          Kernel: Linux 6.11.2-arm64
+    Architecture: arm64
+ Hardware Vendor: VMware, Inc.
+  Hardware Model: VMware20,1
+ Hardware Serial: D84CFD6F9F194D56
+Firmware Version: VMW201.00V.24006586.BA64.2406042154
+   Firmware Date: Tue 2024-06-04
+    Firmware Age: 5month 1w 3d
